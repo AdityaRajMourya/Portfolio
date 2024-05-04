@@ -13,15 +13,9 @@ To get started with this project, follow these steps:
    cd <project-folder>
    npm install
 
-3. **Set up environment variables**:
+3. **Run the server**:
 
-- Create a `.env` file in the root directory.
-- Add environment variables needed for the project, such as database connection URI, API keys, etc.
-
-4. **Run the server**:
-   npm i
-   then ,
    npm start
 
-5. **Open in the browser**:
+4. **Open in the browser**:
    Open your browser and go to `http://localhost:3000` to see the application running.
