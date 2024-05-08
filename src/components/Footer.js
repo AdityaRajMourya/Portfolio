@@ -34,7 +34,7 @@ function Footer() {
 
             <li className="social-icons">
               <a
-                href="www.linkedin.com/in/aditya-raj-mourya-905b81242"
+                href="https://www.linkedin.com/in/aditya-raj-mourya-905b81242"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
